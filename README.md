@@ -1,2 +1,3 @@
 # hello-world
 new to this
+well im a happy to go girl,wanting to learn programming badly...
